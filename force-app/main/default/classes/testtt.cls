@@ -1,5 +1,5 @@
 public with sharing class testtt {
-    public testtt() {
+    public stastic testtt() {
 
     }
 }
